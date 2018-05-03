@@ -10,8 +10,8 @@ TEST
 
 * rtt_fair_up_cs0
 * rtt_fair_up_cs7
-* udp_flood_up_cs0
-* udp_flood_up_cs7
+* udp_flood_up_cs0 - udp_bandwidth=2G
+* udp_flood_up_cs7 - udp_bandwidth=2G
 
 HOW-TO
 ======
